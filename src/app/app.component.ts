@@ -51,8 +51,6 @@ export class AppComponent {
       this.jisuushi.push(new Jisuushi(line[0], line[1], line[2], line[3]));
     });
     this.current = this.jisuushi[Math.floor(Math.random()*this.jisuushi.length)];
-    console.log(this.current);
-    console.log(this.loaded);
     this.loaded = true;
   }
 
