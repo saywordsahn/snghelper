@@ -1,0 +1,25 @@
+name、名前、指名、お名前
+country、国、国、お国
+to be called、申します、言います、おっしゃいます
+to come、まいります、きます、いらっしゃいます
+to go、まいります、行きます、いらっしゃいます
+to eat、いただきます、食べます、召し上がります
+to drink、いただきます、飲みます、召し上がります
+father、父、父親、お父さん
+mother、母、母親、お母さん
+parents、両親、両親、ご両親
+house/home、うち、いえ、おたく
+energy/spirit、元気、元気、お元気
+like、好き、好き、お好き
+birthday、誕生日、誕生日、お誕生日
+who、だれ、だれ、どなた
+friend、友達、友人、お友達
+to exist (living things)、おります、います、いらっしゃいます
+away from home、るす、るす、おるす
+to be、でございます、です、でいらっしゃいます
+husband、主人、おっと、ご主人
+wife、家内、妻、奥さん
+husband and wife、夫婦、夫婦、ご夫婦
+aquaintance、知り合い、知人、お知り合い
+know、存じております、知っています、ご存知でいらっしゃいます
+do、いたします、します、なさいます

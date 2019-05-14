@@ -1,0 +1,20 @@
+<div class="row">
+    <div style="text-align:center;">
+        <h1 *ngIf="loaded">
+        {{current.english}}
+        </h1>
+    </div>
+</div>
+<div class="row">
+        <div style="text-align: center">
+            <input type="text" autofocus #uchiInputElement [(ngModel)]="uchiInput" (keyup.enter)="check()" id="uchi" style="font-size:x-large" class="md-textarea form-control" rows="1">
+            <input type="text" [(ngModel)]="neutralInput" (keyup.enter)="check()" id="neutral" style="font-size:x-large" class="md-textarea form-control" rows="1">
+            <input type="text" [(ngModel)]="yosoInput" (keyup.enter)="check()" id="yoso" style="font-size:x-large" class="md-textarea form-control" rows="1">
+            <button (click)="check()">check</button>
+        </div>
+</div>
+<div class="row">
+    <div *ngIf="wrong" style="color: red">
+    <h1>WRONG! Try again!</h1>
+    </div>
+</div>

@@ -1,0 +1,13 @@
+先生、先生、teacher
+学生、がくせい、student
+朝ごはん、朝ごはん、breakfast
+昼ごはん、ひるごはん、lunch
+晩御飯、ばんごは、dinner
+病院、びょういん、hospital
+駅、駅、train station
+郵便局、ゆうびんきょく、post office
+銀行、ぎんこう、bank
+空港、くうこう、airport
+喫茶店、きっさてん、coffee shop
+公園、こうえん、park
+図書館、としょかん、library

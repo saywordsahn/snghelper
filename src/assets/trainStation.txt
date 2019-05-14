@@ -1,0 +1,20 @@
+駅員、えきいん、train station employee
+乗客、じょうきゃく、passenger
+ベンチ、ベンチ、bench
+ゴミ箱、ごみばこ、garbage bin
+ホーム、ほーむ、train platform
+黄色い線、きいろいせん、yellow lineß
+白線、はくせん、white line
+点字ブロック、てんじぶろっく、brail dots
+ガード、がーど、rail line safety guard
+自動券売機、じどうけんばいき、ticket machine
+自動精算機、じどうせいさんき、fare adjustment machine (suica, passmo, etc.)
+清算所、せいさんじょ、fare adjustment machine (suica, passmo, ect.)
+改札口、かいさつぐち、ticket gate
+公衆電話、こうしゅうでんわ、pay-phone
+自動販売機、じどうはんばいき、vending machine
+自販機、じはんき、vending machine
+キオスク、きおすく、kiosk
+タクシー乗り場、たくしーのりば、taxi stop
+バス乗り場、ばすのりば、bus stop (airport, train staiton, etc.)
+バス停、ばすてい、bus stop

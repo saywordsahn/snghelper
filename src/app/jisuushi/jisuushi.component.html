@@ -1,0 +1,18 @@
+<div class="row">
+    <div style="text-align:center;">
+        <h1 *ngIf="loaded">
+            {{current.counter}}
+        </h1>
+    </div>
+</div>
+    <div class="row">
+        <div class="md-form" style="text-align: center">
+            <input type="text" autofocus [(ngModel)]="input" (keyup.enter)="check()" id="jisuushiInput" style="font-size:x-large" class="md-textarea form-control" rows="1">
+            <button (click)="check()">check</button>
+        </div>
+    </div>
+<div class="row">
+    <div *ngIf="wrong" style="color: red">
+        <h1>WRONG! Try again!</h1>
+    </div>
+</div>
